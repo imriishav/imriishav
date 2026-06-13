@@ -21,14 +21,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=imriishav&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=imriishav&theme=tokyonight)
-
----
-
 ### 🌐 Connect with Me
 
 <!--
