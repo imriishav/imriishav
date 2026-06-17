@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Rishav Saini
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Aspiring+Cloud+Engineer+%7C+Learning+Linux%2C+Git+%26+Shell+Scripting)](https://git.io/typing-svg)
+### Aspiring Cloud Engineer | Learning Linux, Git & Shell Scripting
 
 </div>
 
