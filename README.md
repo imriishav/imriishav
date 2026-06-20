@@ -39,7 +39,6 @@
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=imriishav&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/wakatime?username=imriishav&theme=radical&hide_border=true&layout=compact" />
 
 </div>
 
